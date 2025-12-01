@@ -39,7 +39,9 @@
 
 
 [vector-role](https://github.com/rrr89817384657-collab/vector-role)
+
 [lighthouse-role](https://github.com/rrr89817384657-collab/lighthouse-role)
+
 ---
 
 ### Как оформить решение задания
